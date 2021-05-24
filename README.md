@@ -1,6 +1,6 @@
 ## - 👋 Hi, I’m @arne-gerets
 - 👀 I’m interested in linux, hacking, networking
-- 🌱 I’m currently learning ccna
+- 🌱 I’m currently learning ccna and git
 - 📫 How to reach me: twitter: @ArneGerets
 
 <!---
